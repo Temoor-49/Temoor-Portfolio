@@ -1,52 +1,151 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/45073703/177566625-9b84e793-4559-4475-ba54-8d3d5f4123d4.png" width="35%"> <h4 align="center">Automatic GitHub Portfolio Builder</h4> </p>
+Temoor Hussain - Portfolio 🚀
+A modern, responsive portfolio website built with React.js to showcase my skills, projects, and professional experience as a Software & Business Engineer.
 
-This portfolio will let let you create a beautiful portfolio from your GitHub profile in minutes. Just set your username and deploy — no coding needed.
+🌐 Live Demo
+https://temoor-portfolio.vercel.app/
 
-## ⚡ Features
+✨ Features
+🎨 Modern UI/UX - Clean, responsive design with multiple theme options
 
-- Easy setup and GitHub Pages deployment
-- 37 themes + custom themes
-- Google Analytics & Hotjar support
-- SEO optimized
-- PWA enabled
-- Display: Avatar, Bio, Social links, Skills, Experience, Education, Certifications, Projects, Publications, Blog posts
+⚡ Fast Performance - Built with Vite for optimal loading speeds
 
-🎨 Customization
-Edit gitprofile.config.ts:
+📱 Fully Responsive - Works perfectly on all devices
 
-Theme: themeConfig.defaultTheme = 'nord'
+🎯 Project Showcase - Display GitHub and external projects
 
-Google Analytics: googleAnalytics.id = 'G-XXXXXXX'
+📄 Resume Integration - Direct download link for resume
 
-SEO: seo.title = 'Temoor Hussain Portfolio'
+📊 Skills & Experience - Comprehensive professional overview
 
-Socials: LinkedIn, X, GitHub, Website, etc.
+🎓 Education & Certifications - Academic and professional achievements
 
-Skills, Experience, Education, Certifications, Projects, Publications, Blog — fill or leave empty
+📰 Blog Integration - Connect with your blog posts
 
-Example:
+🔍 SEO Optimized - Proper meta tags and Open Graph data
 
-typescript
-skills: ['JavaScript', 'React', 'Flutter', 'Node.js'],
-experiences: [{ company: 'Vigorous Technologies', position: 'Developer', from: '2023', to: 'Present', companyLink: '' }],
-📁 Projects
-GitHub Projects: Automatic (top stars/updated) or manual selection
+🛠️ Tech Stack
+Frontend: React.js, JavaScript
 
-External Projects: Add custom projects with title, description, image, link
+Styling: Tailwind CSS, DaisyUI
 
-📝 Blog
-Show recent posts from Medium or Dev:
+Build Tool: Vite
 
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Deployment: Vercel
 
-🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+Icons: React Icons
 
-❓ Support
-If you have any questions or issues, please open an issue on GitHub.
+HTTP Client: Axios
 
-<div align="center">
-If you find this project helpful, please give it a ⭐️!
+🚀 Quick Start
+Prerequisites
+Node.js (v16 or higher)
 
-</div> ```
+npm or yarn
+
+Installation
+Clone the repository
+
+bash
+git clone https://github.com/Temoor-49/portfolio.git
+cd portfolio
+Install dependencies
+
+bash
+npm install
+Configure your data
+
+Edit gitprofile.config.js with your personal information
+
+Update project details, skills, and experience
+
+Run locally
+
+bash
+npm run dev
+Build for production
+
+bash
+npm run build
+📁 Project Structure
+text
+portfolio/
+├── src/
+│   ├── components/     # React components
+│   ├── constants/      # App constants
+│   ├── utils/          # Utility functions
+│   └── assets/         # Styles and images
+├── gitprofile.config.js # Configuration file
+├── vite.config.js      # Vite configuration
+└── package.json        # Dependencies
+⚙️ Configuration
+Edit gitprofile.config.js to customize:
+
+Personal Information - Name, bio, location, company
+
+Social Links - GitHub, LinkedIn, Twitter, etc.
+
+Projects - GitHub repositories and external projects
+
+Experience - Work history and positions
+
+Skills - Technical skills and proficiencies
+
+Education - Academic background
+
+Certifications - Professional certifications
+
+Theme - Color schemes and appearance
+
+🎨 Themes
+Choose from 30+ beautiful themes including:
+
+Light, Dark, Cupcake, Bumblebee
+
+Emerald, Corporate, Synthwave
+
+Retro, Cyberpunk, Valentine
+
+Halloween, Garden, Forest
+
+And many more...
+
+📈 Deployment
+Vercel (Recommended)
+Fork this repository
+
+Go to Vercel
+
+Import your repository
+
+Deploy with one click
+
+Other Platforms
+Netlify: Connect your GitHub repository
+
+GitHub Pages: Use the build output
+
+Any static hosting service
+
+📞 Contact
+
+💼 LinkedIn: Temoor Hussain
+
+🐙 GitHub: Temoor-49
+
+📧 Email: temoorh48@gmail.com
+
+📱 Phone: +92-314-68******
+
+🛡️ License
+This project is open source and available under the MIT License.
+
+🙏 Acknowledgments
+Icons by React Icons
+
+UI components by DaisyUI
+
+Built with React and Vite
+
+⭐ Star this repository if you find it helpful!
+
+Built with ❤️ by Temoor Hussain
