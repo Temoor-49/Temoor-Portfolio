@@ -218,8 +218,8 @@ const CONFIG = {
       'procyon',
     ],
   },
-  footer: `Made with <a class="text-primary" href="Temoor-49" target="_blank" rel="noreferrer">GitProfile</a> and ❤️`,
-  enablePWA: true,
+ footer: `Made with ❤️ by <a class="text-primary" href="https://github.com/Temoor-49" target="_blank" rel="noreferrer">Temoor Hussain</a>`,
+enablePWA: true,
 };
 
 export default CONFIG;
